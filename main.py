@@ -23,7 +23,7 @@ con = psycopg2.connect(
     host='localhost',
     database='losa',
     user='postgres',
-    password='4394987'
+    password='244466666'
 )
 
 cur = con.cursor()
